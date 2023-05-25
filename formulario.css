@@ -1,0 +1,28 @@
+body{
+    background-color: rgb(255, 255, 255);
+    padding: 0;
+    margin: 0;
+}
+h1{
+    color: rgb(67, 67, 226);
+    margin-left: 20px;
+    margin-top: 30px;
+}
+h2{
+    color: aquamarine;
+    margin-left: 20px;
+    margin-top: 30px;
+}
+form{
+    color: rgb(126, 126, 255);
+    text-align: justify ; 
+    margin-top: 30px;
+    margin-left: 20px;
+}
+li{
+    margin-top: 30px;
+}
+input{
+    
+    margin-top: 20px;
+}
